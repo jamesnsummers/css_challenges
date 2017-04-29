@@ -37,4 +37,15 @@ I began with the HTML and CSS from pt. 3 and made the following adjustments unti
 5. Added margin-left:80px and margin-top:80px to div2.
 6. Added float:left to div2.
 
-[CHALLENGE 2 PT 4. ](https://github.com/jamesnsummers/css_challenges/tree/master/challenge_2/css4)
+[CHALLENGE 2 PT. 4 ](https://github.com/jamesnsummers/css_challenges/tree/master/challenge_2/css4)
+
+##### CHALLENGE 2 PT. 5
+I began with the HTML and CSS from pt. 3 and made the following adjustments until I accomplished the end-goal:
+
+1. Added div3 to HTML and CSS
+2. Changed div1 to only float: right;
+3. Changed div2 margins to place it in the center of the page.
+4. Added float:left and clear:both to div3.
+5. Removed gray background-color styling from div2.
+
+[CHALLENGE 2 PT. 5 ](https://github.com/jamesnsummers/css_challenges/tree/master/challenge_2/css5)

@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+div {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  color: white;
+}
+
+.div1 {
+  float: right;
+}
+
+.div2 {
+  margin-left: 40%;
+  margin-top: 200px;
+  float: left;
+}
+
+.div3 {
+  float: left;
+  clear: both;
+}
