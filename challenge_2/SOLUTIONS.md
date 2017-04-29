@@ -49,3 +49,15 @@ I began with the HTML and CSS from pt. 3 and made the following adjustments unti
 5. Removed gray background-color styling from div2.
 
 [CHALLENGE 2 PT. 5 ](https://github.com/jamesnsummers/css_challenges/tree/master/challenge_2/css5)
+
+##### CHALLENGE 2 PT. 6
+I began with the HTML and CSS from pt. 3 and made the following adjustments until I accomplished the end-goal:
+
+1. Added background-color:gray to div1.
+2. Added position:absolute to div1.
+3. Adjusted width and height of div1.
+4. Added position:relative and changed float to left on div2.
+5. Added position:relative and changed float to left on div3.
+6. Adjusted margins on div2 and div3 to match challenge goal pic.
+
+[CHALLENGE 2 PT. 6 ](https://github.com/jamesnsummers/css_challenges/tree/master/challenge_2/css6)
