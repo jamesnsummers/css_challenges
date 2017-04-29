@@ -1,0 +1,28 @@
+body {
+  margin: 20% 40% 20% 40%;
+}
+
+div {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  color: white;
+}
+.div1 {
+  width: 200px;
+  height: 200px;
+  background-color: gray;
+  margin-right: 0;
+  position: absolute;
+}
+
+.div2 {
+  position: fixed;
+  margin-left: 45px;
+  margin-top: 45px;
+}
+
+/*.div3 {
+  float: right;
+  clear: both;
+}*/
