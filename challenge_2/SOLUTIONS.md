@@ -19,9 +19,10 @@ I began with the HTML and CSS from pt. 1 and made the following adjustments unti
 [CHALLENGE 2 PT. 2](https://github.com/jamesnsummers/css_challenges/tree/master/challenge_2/css2)
 
 ##### CHALLENGE 2 PT. 3
-I began with the HTML and CSS from pt. 1 and made the following adjustments until I accomplished the end-goal:
+I began with the HTML and CSS from pt. 2 and made the following adjustments until I accomplished the end-goal:
 
-1. Changed the float of div2 to float:none and added clear:both and margin-left: 45%.
-2. Changed the float of div3 to float:right and added clear:both.
+1. Changed the body margins to bring all divs to the center of the screen.
+2. Changed div1 margin-right to 0 and position to absolute.
+3. Changed div2 position to fixed and added margins on the left and top to bring it on top of div1.
 
 [CHALLENGE 2 PT. 3](https://github.com/jamesnsummers/css_challenges/tree/master/challenge_2/css3)
