@@ -25,4 +25,16 @@ I began with the HTML and CSS from pt. 2 and made the following adjustments unti
 2. Changed div1 margin-right to 0 and position to absolute.
 3. Changed div2 position to fixed and added margins on the left and top to bring it on top of div1.
 
-[CHALLENGE 2 PT. 3](https://github.com/jamesnsummers/css_challenges/tree/master/challenge_2/css3)
+[CHALLENGE 2 PT.  3](https://github.com/jamesnsummers/css_challenges/tree/master/challenge_2/css3)
+
+##### CHALLENGE 2 PT. 4
+I began with the HTML and CSS from pt. 3 and made the following adjustments until I accomplished the end-goal:
+
+1. Changed div1 margin-left and margin-top to 0.
+2. Added float:left to div1
+3. Changed gray background-color to be on div2.
+4. Added position:relative to div2.
+5. Added margin-left:80px and margin-top:80px to div2.
+6. Added float:left to div2.
+
+[CHALLENGE 2 PT 4. ](https://github.com/jamesnsummers/css_challenges/tree/master/challenge_2/css4)
