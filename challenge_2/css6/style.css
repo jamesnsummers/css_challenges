@@ -1,3 +1,7 @@
+html {
+  height: auto;
+  width: auto;
+}
 body {
   margin: 0;
 }
@@ -14,16 +18,22 @@ div {
   position: absolute;
   width: 700px;
   height: 300px;
+  bottom: 0;
+  right: 0;
 }
 
 .div2 {
-  margin-top: 100px;
-  position: relative;
-  float: left;
+  position: absolute;
+  bottom: 0;
+  flex-flow: row;
+  align-content: center;
+  right: 500px;
 }
 
 .div3 {
-  margin-left: 300px;
-  position: relative;
-  float: left;
+  position: absolute;
+  margin-left: 500px;
+  margin-bottom: 100px;
+  bottom: 0;
+  right: 0;
 }
