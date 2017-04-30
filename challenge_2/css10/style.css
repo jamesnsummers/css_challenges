@@ -1,0 +1,42 @@
+html {
+  height: auto;
+  width: auto;
+}
+body {
+  margin: 0;
+}
+
+.container {
+  position: relative;
+  margin-left: 25%;
+  margin-top: 5%;
+}
+
+div {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  color: white;
+}
+
+.div1 {
+  background-color: gray;
+  position: absolute;
+  width: 600px;
+  height: 400px;
+  top: 0;
+  left: 0;
+}
+
+.div2 {
+  position: absolute;
+  top: 100px;
+  left: 0;
+}
+
+.div3 {
+  position: absolute;
+  left: 400px;
+  top: 100px;
+  right: 0;
+}
