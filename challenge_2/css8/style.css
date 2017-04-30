@@ -1,0 +1,38 @@
+html {
+  height: auto;
+  width: auto;
+}
+body {
+  margin: 0;
+}
+
+div {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  color: white;
+}
+
+.div1 {
+  background-color: gray;
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  top: 0;
+  left: 0;
+}
+
+.div2 {
+  position: absolute;
+  top: 0;
+  left: 200px;
+}
+
+.div3 {
+  display: none;
+  position: absolute;
+  margin-left: 500px;
+  margin-bottom: 100px;
+  bottom: 0;
+  right: 0;
+}
